@@ -1,6 +1,6 @@
 
 
-
+TO TRY THE GAME, LOCATE THE EXECUTABLE FILE IN ./bin
 
 
 
